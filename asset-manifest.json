@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f8d0e955.css",
+    "main.js": "/portfolio/static/js/main.81bd990f.js",
+    "static/js/787.2c1cee2b.chunk.js": "/portfolio/static/js/787.2c1cee2b.chunk.js",
+    "static/media/coming_soon.jpg": "/portfolio/static/media/coming_soon.70a9dde1eeaf3462bb6b.jpg",
+    "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/demo_cocktaildb.png": "/portfolio/static/media/demo_cocktaildb.6d07105f27b2e3a50427.png",
+    "static/media/demo_segundaweb.png": "/portfolio/static/media/demo_segundaweb.5cdb2335d11aed430329.png",
+    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/demo_encriptador.png": "/portfolio/static/media/demo_encriptador.68769e8c52260df5c1d9.png",
+    "static/media/demo_weather.png": "/portfolio/static/media/demo_weather.ccef12506602c321c3ab.png",
+    "static/media/demo_org.png": "/portfolio/static/media/demo_org.a395295edb96181dfeee.png",
+    "static/media/footer-bg.png": "/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/demo_calculadora.png": "/portfolio/static/media/demo_calculadora.077e32bc2e1e9ad922a8.png",
+    "static/media/demo_clickcounter.png": "/portfolio/static/media/demo_clickcounter.e15dd5305a4221a429d8.png",
+    "static/media/demo_grocery bud.png": "/portfolio/static/media/demo_grocery bud.107e57064d57419a0fdd.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.dce54541bbf91d38cd3e.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio/index.html",
+    "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.f8d0e955.css.map": "/portfolio/static/css/main.f8d0e955.css.map",
+    "main.81bd990f.js.map": "/portfolio/static/js/main.81bd990f.js.map",
+    "787.2c1cee2b.chunk.js.map": "/portfolio/static/js/787.2c1cee2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d0e955.css",
+    "static/js/main.81bd990f.js"
+  ]
+}
